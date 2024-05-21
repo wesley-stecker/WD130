@@ -1,26 +1,6 @@
-* {
-    text-align: center;
-    background-color: rgb(107, 154, 255);
+body {
+    background-color: rgb(100, 100, 100);
 }
-h1 {
-    color: white;
-}
-p {
-    color: white;
-}
-h3 {
-    color: white;
-}
-h4 {
-    text-align: left;
-    width: 300px;
-    padding: 0px;
-    left: 38%;
-    position: relative;
-}
-h2 {
-    color: white;
-    width:300px;
-    left: 38%;
-    position: relative;
+#circles {
+    width: 100%;
 }
