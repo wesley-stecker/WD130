@@ -104,3 +104,6 @@ footer p :hover{
     text-align: center;
     margin: auto auto;
 }
+#hero-img {
+    width: 100%;
+}
