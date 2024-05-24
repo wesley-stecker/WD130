@@ -86,22 +86,10 @@ main section {
     text-align: center;
 }
 
-.rivers-card .card-img {
-    /* No specific styles for this class */
-}
-
 .icon {
     width: 100px;
     color: #ffd000;
     padding: 35px;
-}
-
-.camping-card .card-img {
-    /* No specific styles for this class */
-}
-
-.rapids-card .card-img {
-    /* No specific styles for this class */
 }
 
 #background {
