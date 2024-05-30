@@ -1,6 +1,27 @@
-body {
-    background-color: rgb(100, 100, 100);
+.gridbox{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
 }
-#circles {
-    width: 100%;
+.img{
+    grid-column: 1/2;
+}
+.tart{
+    justify-items: center;
+    justify-items: center;
+    text-align: center;
+    position: absolute;
+    left: 600px;
+    font-size: 10em;
+}
+.gray{
+    background-color: gray;
+    grid-column: 2/3;
+}
+.charries{
+    position:absolute;
+    left: 1200px;
+    bottom: 300px;
+    font-size: 8em;
+    grid-column: 2/3;
+    color: rgb(175, 0, 0);
 }
