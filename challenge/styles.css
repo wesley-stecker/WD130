@@ -1,0 +1,17 @@
+section {
+    width: 50%;
+    border: 1px solid;
+}
+  
+.block1 {
+  text-align: left;
+}
+.block2 {
+  text-align: center;
+}
+.block3 {
+  text-align: right;
+}
+.block4 {
+  text-align: center;
+}
